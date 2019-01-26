@@ -1,0 +1,7 @@
+com\Intive\Patronage\tests\pages\GooglePage.class
+com\Intive\Patronage\tests\steps\Hooks.class
+com\Intive\Patronage\tests\pages\AutomationpracticePage.class
+com\Intive\Patronage\tests\steps\GoogleSteps.class
+com\Intive\Patronage\tests\DriverFactory.class
+com\Intive\Patronage\tests\steps\newsletterSteps.class
+com\Intive\Patronage\tests\TestRunner.class
